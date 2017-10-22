@@ -1,6 +1,6 @@
 [package]
 name = "spade"
 version = "0.1.0"
-authors = ["Nicolas Feltman <nfeltman@gmail.com>"]
+authors = ["Luken Robison <plsnoemailme@gmail.com>", "Nicon Feltman"]
 
 [dependencies]
